@@ -1,12 +1,12 @@
 # 🌐 Akisha Bhujel – Data Analyst Portfolio
 
-## 🚀 Live Website
-
-🔗 [View Portfolio](https://akisavujel.github.io/Portfolio/)
-
 Welcome to my personal portfolio repository.
 
 This portfolio showcases my projects in Data Analysis, SQL, Excel dashboards, Tableau visualization, and software development as a Bachelor of Information Technology (BIT) student.
+
+## 🚀 Live Website
+
+🔗 [View Portfolio](https://akisavujel.github.io/Portfolio/)
 
 ## 👩‍💻 About Me 
 
