@@ -1,6 +1,8 @@
 # 🌐 Akisha Bhujel – Data Analyst Portfolio
 
-[akisavujel.portfolio](https://akisavujel.github.io/Portfolio/)
+## 🚀 Live Website
+
+🔗 [View Portfolio](https://akisavujel.github.io/Portfolio/)
 
 Welcome to my personal portfolio repository.
 
